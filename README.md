@@ -43,3 +43,6 @@ method.
 truth of the testing dataset should not be part of the input to the program and
 should only be used as part of the evaluation on the results obtained for the
 testing dataset.
+
+## Novelty and Results
+Please refer to the Report.pdf
